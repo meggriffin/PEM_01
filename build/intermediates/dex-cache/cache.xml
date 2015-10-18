@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/katrinschauer/AndroidStudioProjects/Shopping_List/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/katrinschauer/AndroidStudioProjects/Shopping_List/app/build/intermediates/pre-dexed/debug/classes-e29c10e30468494315faff018e71054dd6fb2aa3.jar" />
+    </item>
+    <item
+        jar="/Users/katrinschauer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/katrinschauer/AndroidStudioProjects/Shopping_List/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-01f70b445f42f632eeb9ecc6cc592fb6ca8c6535.jar" />
+    </item>
+    <item
+        jar="/Users/katrinschauer/AndroidStudioProjects/Shopping_List/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/katrinschauer/AndroidStudioProjects/Shopping_List/app/build/intermediates/pre-dexed/debug/classes-70bdcfaea3fd7aba15b2c1b75a2976ef3081b579.jar" />
+    </item>
+    <item
+        jar="/Users/katrinschauer/AndroidStudioProjects/Shopping_List/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/katrinschauer/AndroidStudioProjects/Shopping_List/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-f78074cc8f6db788ea47f02450b6d91ada643832.jar" />
+    </item>
+    <item
+        jar="/Users/katrinschauer/AndroidStudioProjects/Shopping_List/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/katrinschauer/AndroidStudioProjects/Shopping_List/app/build/intermediates/pre-dexed/debug/classes-ec0ac05acc2af96846bb0fc5ff82cefe56fd19ff.jar" />
+    </item>
+
+</items>
